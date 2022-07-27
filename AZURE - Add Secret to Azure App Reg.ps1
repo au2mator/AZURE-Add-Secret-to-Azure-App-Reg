@@ -765,7 +765,6 @@ try {
                         }
 "@
 
-$c_AppId="70804967-3aad-4a07-9ba4-c11aea27df91"
 #Get App Details
 $GetApp_Params = @{
     Method = "GET"
